@@ -1,0 +1,10 @@
+H:\ProjectKu\VB\XII\Arimatika\Arimatika\bin\Debug\Arimatika.exe
+H:\ProjectKu\VB\XII\Arimatika\Arimatika\bin\Debug\Arimatika.pdb
+H:\ProjectKu\VB\XII\Arimatika\Arimatika\bin\Debug\Arimatika.xml
+H:\ProjectKu\VB\XII\Arimatika\Arimatika\obj\x86\Debug\Arimatika.Resources.resources
+H:\ProjectKu\VB\XII\Arimatika\Arimatika\obj\x86\Debug\Arimatika.vbproj.GenerateResource.Cache
+H:\ProjectKu\VB\XII\Arimatika\Arimatika\obj\x86\Debug\Arimatika.exe
+H:\ProjectKu\VB\XII\Arimatika\Arimatika\obj\x86\Debug\Arimatika.xml
+H:\ProjectKu\VB\XII\Arimatika\Arimatika\obj\x86\Debug\Arimatika.pdb
+H:\ProjectKu\VB\XII\Arimatika\Arimatika\obj\x86\Debug\Arimatika.Tugas1.resources
+H:\ProjectKu\VB\XII\Arimatika\Arimatika\obj\x86\Debug\Arimatika.Tugas2.resources
