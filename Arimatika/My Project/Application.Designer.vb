@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.Arimatika.Tugas2
+            Me.MainForm = Global.Arimatika.Tugas3
         End Sub
     End Class
 End Namespace

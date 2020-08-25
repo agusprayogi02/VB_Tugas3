@@ -19,7 +19,6 @@
 
     Private Sub Button1_Click(sender As System.Object, e As System.EventArgs) Handles Button1.Click
         If ComboBox1.SelectedItem = "°C" Then
-            MessageBox.Show("Hais", "broo", MessageBoxButtons.OK, MessageBoxIcon.Information)
             If ComboBox2.SelectedItem = "°R" Then
                 TextBox2.Text = TextBox1.Text * 0.8
             ElseIf ComboBox2.SelectedItem = "°F" Then
